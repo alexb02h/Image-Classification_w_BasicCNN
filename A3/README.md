@@ -5,7 +5,7 @@
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/alexb02h/CSCI_611_Alexander_Baron.git
-cd CSCI-611_Alexander_Baron/A2
+cd CSCI-611_Alexander_Baron/A3
 ```
 
 ### 2. Install dependencies
