@@ -1,4 +1,4 @@
-# CIFAR-10 CNN Image Classifier
+# YOLO v8 for small object detection
 
 ## How to Run
 
